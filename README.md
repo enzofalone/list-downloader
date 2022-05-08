@@ -4,6 +4,8 @@ Download manager script for ZippyShare in Python using the [zippyshare-downloade
 
 ## Installation and usage
 
+* Install the latest version of Python if you haven't already done so
+
 * Clone repository using 
 
 `git clone https://github.com/enzofalone/list-downloader.git`
